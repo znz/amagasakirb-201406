@@ -1,4 +1,4 @@
-= タイトル
+= 普段使っている須藤さんプロダクツ
 
 # : subtitle
 #    サブタイトル
@@ -6,22 +6,44 @@
    Kazuhiro NISHIYAMA
 # : institution
 #    所属
-# : content-source
-#    イベント名
-# : date
-#    2014/06/28
-# : allotted-time
-#    5m
+: content-source
+   Amagasakirb特別編 須藤さん関連プロダクツ勉強会
+: date
+   2014/06/28
+: allotted-time
+   3m
 # : theme
 #    default
 
-= 最初のスライド
+= 常時使ってるもの
 
-  * 項目1
-  * 項目2
-  * 項目3
+  * milter-manager
+    * サーバーで常時稼働
+  * rss
+    * IRC への通知とかで間接的に使用
 
-= 二番目のスライド
+= 必要に応じて使ってるもの
+
+  * Rabbit
+    * スライドを用意してプレゼンするとき
+
+= 最近使っていないもの
+
+  * ActiveLdap
+    * Rails 3(?) への対応が遅かったので
+  * RWiki
+    * Redmine とかのを使ってる
+
+= 最近使っていないもの (2)
+
+  * REXML
+    * nokogiri を使ってる
+  * test-unit
+    * rspec を(ry
+  * gettext (旧 Ruby-GetText-Package)
+    * Rails 標準の i18n を(ry
+
+= end
 
   # image
   # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
