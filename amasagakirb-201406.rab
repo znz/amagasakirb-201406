@@ -10,8 +10,8 @@
    Amagasakirb特別編 須藤さん関連プロダクツ勉強会
 : date
    2014/06/28
-: allotted-time
-   3m
+#: allotted-time
+#    5m
 # : theme
 #    default
 
@@ -26,6 +26,8 @@
 
   * Rabbit
     * スライドを用意してプレゼンするとき
+    * Rabbiter は使えてない
+  * るりまサーチ
 
 = 最近使っていないもの
 
